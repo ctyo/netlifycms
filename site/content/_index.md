@@ -26,8 +26,6 @@ news:
 
    - 4/19(火) : [最新事情#1](https://www.youtube.com/watch?v=t19MPU4n7tc)を配信しました
 
-
-
 # intro:
 #   heading: What we offer
 #   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -52,3 +50,4 @@ news:
 #     one of colonialism and mindless abuse of natural resources and human lives.
 #     We want to turn this around and return the coffee trade to the drink’s
 #     exhilarating, empowering and unifying nature.
+---
