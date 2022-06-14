@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "ja-jp"
 languageLang = "ja"
-title = "FOSS4G Tokai 2022"
+title = "FOSS4G TOKAI 2022"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 

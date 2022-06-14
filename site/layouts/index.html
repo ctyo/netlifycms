@@ -1,14 +1,18 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict 
-    "imageUrl" .Params.image 
-    "title" .Title 
-    "subtitle" .Params.subtitle 
-    "time" .Params.time
-    "place" .Params.place 
-    ) }}
+{{ partial "jumbotron" (dict
+"imageUrl" .Params.image
+"title" .Title
+"subtitle" .Params.subtitle
+"time" .Params.time
+"place" .Params.place
+) }}
 
-{{ partial "short-text" .Params.blurb}}
+{{ partial "onecolumn-text" .Params.blurb}}
+
+{{ partial "list-and-youtube" .Params.news}}
+
+
 
 <!-- {{ partial "2-up" .Params }}
 
